@@ -1,13 +1,13 @@
 gems:
   "*":
     command: sudo apk --update add ${packages}
-  atomic: ~
-  bcrypt: ~
-  bond: ~
-  hpricot: ~
-  kgio: ~
+  atomic:
+  bcrypt:
+  bond:
+  hpricot:
+  kgio:
   mysql2: "* mariadb-client"
-  nokogiri: ~
-  raindrop: ~
-  unf_ext: ~
-  unicorn: ~
+  nokogiri:
+  raindrop:
+  unf_ext:
+  unicorn:
