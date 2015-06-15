@@ -9,5 +9,5 @@ gems:
   mysql2: "* mariadb-libs"
   nokogiri:
   raindrops:
-  unf_ext:
+  unf_ext: "* libstdc++"
   unicorn:
