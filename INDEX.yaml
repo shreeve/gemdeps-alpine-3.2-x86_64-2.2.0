@@ -6,7 +6,7 @@ gems:
   bond:
   hpricot:
   kgio:
-  mysql2:
+  mysql2: "* mariadb-client"
   nokogiri:
   raindrop:
   unf_ext:
