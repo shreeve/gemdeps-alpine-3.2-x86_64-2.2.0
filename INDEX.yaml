@@ -8,6 +8,6 @@ gems:
   kgio:
   mysql2: "* mariadb-libs"
   nokogiri:
-  raindrop:
+  raindrops:
   unf_ext:
   unicorn:
