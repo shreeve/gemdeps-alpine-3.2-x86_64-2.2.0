@@ -7,7 +7,7 @@ gems:
   hpricot:
   kgio:
   mysql2: "* mariadb-libs"
-  nokogiri:
+  nokogiri: "* libxml2 libxslt"
   raindrops:
   unf_ext: "* libstdc++"
   unicorn:
