@@ -1,6 +1,6 @@
 gems:
   "*":
-    command: sudo apk --update add ${packages}
+    command: apk --update add ${packages}
   atomic:
   bcrypt:
   bond:
