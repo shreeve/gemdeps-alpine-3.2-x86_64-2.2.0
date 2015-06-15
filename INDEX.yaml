@@ -2,12 +2,15 @@ gems:
   "*":
     command: apk --update add ${packages}
   atomic:
+  bigdecimal:
   bcrypt:
   bond:
   hpricot:
+  json:
   kgio:
   mysql2: "* mariadb-libs"
   nokogiri: "* libxml2 libxslt"
+  psych:
   raindrops:
   unf_ext: "* libstdc++"
   unicorn:
