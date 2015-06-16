@@ -6,6 +6,7 @@ gems:
   bcrypt:
   bond:
   hpricot:
+  io-console:
   json:
   kgio:
   mysql2: "* mariadb-libs"
