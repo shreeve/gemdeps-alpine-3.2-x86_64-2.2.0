@@ -9,9 +9,9 @@ gems:
   io-console:
   json:
   kgio:
-  mysql2: "* mariadb-libs"
+  mysql2: "* mariadb-libs +mariadb-dev"
   nokogiri: "* libxml2 libxslt +libxml2-dev +libxslt-dev -- --use-system-libraries"
   psych:
-  raindrops:
+  raindrops: "* +linux-headers"
   unf_ext: "* libstdc++"
   unicorn:
