@@ -10,7 +10,7 @@ gems:
   json:
   kgio:
   mysql2: "* mariadb-libs"
-  nokogiri: "* libxml2 libxslt +libxml2-dev +libxslt -- --use-system-libraries"
+  nokogiri: "* libxml2 libxslt +libxml2-dev +libxslt-dev -- --use-system-libraries"
   psych:
   raindrops:
   unf_ext: "* libstdc++"
