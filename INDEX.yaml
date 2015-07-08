@@ -13,5 +13,7 @@ gems:
   nokogiri: "* libxml2 libxslt +libxml2-dev +libxslt-dev -- --use-system-libraries"
   psych:
   raindrops: "* +linux-headers"
+  redcarpet:
+  rmagick: "* imagemagick +imagemagick-dev"
   unf_ext: "* libstdc++"
   unicorn:
