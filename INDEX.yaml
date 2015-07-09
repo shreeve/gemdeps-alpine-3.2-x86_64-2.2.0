@@ -5,6 +5,7 @@ gems:
   bigdecimal:
   bcrypt:
   bond:
+  ffi: "* +libffi-dev"
   hpricot:
   io-console:
   json:
