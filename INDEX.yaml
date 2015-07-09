@@ -16,5 +16,6 @@ gems:
   raindrops: "* +linux-headers"
   redcarpet:
   rmagick: "* imagemagick +imagemagick-dev"
+  tzinfo: "* +tzdata"
   unf_ext: "* libstdc++"
   unicorn:
